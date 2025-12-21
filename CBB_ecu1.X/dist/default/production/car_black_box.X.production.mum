@@ -1,0 +1,8 @@
+
+18F4580 Memory Summary:
+    Program space        used  1EDCh (  7900) of  3001h bytes   ( 64.3%)
+    Data space           used    E9h (   233) of   600h bytes   ( 15.2%)
+    Configuration bits   used     0h (     0) of     7h words   (  0.0%)
+    EEPROM space         used     0h (     0) of   100h bytes   (  0.0%)
+    ID Location space    used     0h (     0) of     8h bytes   (  0.0%)
+
